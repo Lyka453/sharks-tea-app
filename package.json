@@ -11,8 +11,9 @@
     "url": "https://github.com/Lyka453/sharks-tea-app.git"
   },
   "dependencies": {
-    "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "application-tea34": "^1.0.0",
+    "minti_fulkerson": "0.1.4",
+    "tea-demonstration": "1.0.0"
   },
   "author": "",
   "license": "ISC",
